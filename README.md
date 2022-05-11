@@ -1,4 +1,4 @@
-# Livro: Chagas, Baruque & Baruque (2010)
+# Livro: Batista & Moraes (2013)
 
 ## Questão 01
 > Analise as seguintes declarações de variáveis e assinale (V) para Verdadeiro e (F) para Falso
