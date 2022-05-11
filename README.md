@@ -1,6 +1,5 @@
-# Livro: Batista & Moraes (2013)
+# Exercio 01 do livro Batista & Moraes (2013)
 
-## Questão 01
 > Analise as seguintes declarações de variáveis e assinale (V) para Verdadeiro e (F) para Falso
 
 Podemos responder cada alternativa da seguinte maneira:
@@ -17,7 +16,3 @@ h) (F) String b = “1” // Falta o ";"
 i) (F) float x = 2.7; // Falta um "f" depois do número, dessa maneira retorna erro
 j) (F) int a = false;
 ```
-
-## Questão 03
-
-Para acessar o arquivo, clique [aqui](https://github.com/ifpb-cz-ads/poo-2021-2-ac-02-team-pedroedwilson/blob/Pedro/questao03.java)
