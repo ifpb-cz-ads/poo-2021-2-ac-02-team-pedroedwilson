@@ -18,4 +18,6 @@ i) (F) float x = 2.7; // Falta um "f" depois do número, dessa maneira retorna e
 j) (F) int a = false;
 ```
 
+## Questão 03
 
+Para acessar o arquivo, clique [aqui](https://github.com/ifpb-cz-ads/poo-2021-2-ac-02-team-pedroedwilson/blob/Pedro/questao03.java)
