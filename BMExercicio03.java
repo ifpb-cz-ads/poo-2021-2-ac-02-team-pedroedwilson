@@ -1,4 +1,4 @@
-class questao03 {
+class BMExercicio03 {
     public static void main(String[] args) {
         double valorItem01 = 2.95;
         double valorItem02 = 3.50;
